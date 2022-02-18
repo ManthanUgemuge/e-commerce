@@ -9,6 +9,7 @@ Followed tutorial just for Fun
 
 ## How to use Project
 
+- Download or clone the repository Website : 
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
