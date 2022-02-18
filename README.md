@@ -1,6 +1,6 @@
 # E-commerce
 Basic E-commerce layout </br>
-Followed tutorial just for Fun 
+Followed Tutorial just for Fun 
 
 ## Tech Stacks Used :
 
