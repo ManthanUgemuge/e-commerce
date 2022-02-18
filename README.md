@@ -11,7 +11,7 @@ Followed Tutorial just for Fun
 
 - Download or clone the repository Website : 
 ```
-
+https://github.com/ManthanUgemuge/E-commerce.git
 ```
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
