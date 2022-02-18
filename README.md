@@ -1,4 +1,5 @@
 # E-commerce
+Basic E-commerce layout
 Followed tutorial just for Fun 
 
 ## Tech Stacks Used :
