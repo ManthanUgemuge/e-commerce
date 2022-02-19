@@ -13,7 +13,6 @@ Followed Tutorial just for Fun.
 ```
 https://github.com/ManthanUgemuge/E-commerce.git
 ```
-
 Run Directly here - [E-Commerce Website](https://manthanugemuge.github.io/E-commerce/)
 
 ## Contributing
