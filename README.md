@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce Website
 Basic E-commerce layout </br>
 Followed Tutorial just for Fun 
 
