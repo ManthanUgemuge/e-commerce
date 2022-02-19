@@ -14,7 +14,7 @@ Followed Tutorial just for Fun
 https://github.com/ManthanUgemuge/E-commerce.git
 ```
 
-Run Directly here - [E-Commerce Website](https://manthanugemuge.github.io/MusicWebApp/)
+Run Directly here - [E-Commerce Website](https://manthanugemuge.github.io/E-commerce/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
@@ -22,4 +22,4 @@ Pull requests are welcome, feel free to ```fork``` this repo.
 ## License
 This project is open-sourced under the [MIT license]().
 
-https://manthanugemuge.github.io/E-commerce/
+
