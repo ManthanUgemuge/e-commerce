@@ -1,5 +1,5 @@
 # E-Commerce Website
-Basic E-commerce layout </br>
+Basic E-commerce Website layout </br>
 Followed Tutorial just for Fun 
 
 ## Tech Stacks Used :
