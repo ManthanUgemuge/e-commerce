@@ -4,6 +4,7 @@ Followed Tutorial just for Fun. </br>
 RedStore Store
 
 ## About the Project
+E-commerce Website Basic Layout
 
 ## Tech Stacks Used :
 
