@@ -1,7 +1,7 @@
 # E-Commerce Website
 Basic E-commerce Website layout </br>
 Followed Tutorial just for Fun. </br>
-RedStore 
+RedStore Store
 
 ## Tech Stacks Used :
 
