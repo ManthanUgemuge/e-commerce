@@ -1,5 +1,5 @@
 # E-Commerce Website
-Basic E-commerce Website layout </br>
+A Basic E-commerce Website layout made with help of HTML & CSS. </br>
 Followed Tutorial just for Fun. </br>
 RedStore Store
 
