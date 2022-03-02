@@ -2,7 +2,7 @@
 A Basic E-commerce Website layout made with help of HTML & CSS. </br>
 Followed Tutorial just for Fun. </br>
 RedStore Store
-d
+
 ## About the Project
 E-commerce Website Basic Layout
 
