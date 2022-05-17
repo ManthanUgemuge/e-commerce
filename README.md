@@ -17,7 +17,7 @@ E-commerce Website Basic Layout
 ```
 https://github.com/ManthanUgemuge/E-commerce.git
 ``` 
-Run Directly here - [Live](https://manthanugemuge.github.io/E-commerce/)//[DOwnload]()
+Run Directly here - [Live](https://manthanugemuge.github.io/E-commerce/)//[Download](https://github.com/ManthanUgemuge/E-commerce/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
