@@ -4,7 +4,7 @@ Followed Tutorial just for Fun. </br>
 RedStore Store
 
 ## About the Project
-E-commerce Website Basic Layout
+Basic E-commerce Website UI with help of HTML, CSS and JavaScript.
 
 ## Tech Stacks Used :
 
