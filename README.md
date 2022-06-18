@@ -1,7 +1,7 @@
 # E-Commerce Website
 A E-commerce Website layout made with help of HTML & CSS. </br>
 Followed Tutorial just for Fun. </br>
-RedStore Store
+RedStore Store.
 
 ## About the Project
 Basic E-commerce Website UI with help of HTML, CSS and JavaScript.
