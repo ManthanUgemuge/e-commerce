@@ -1,6 +1,5 @@
 # E-Commerce Website
-A E-commerce Website layout made with help of HTML & CSS. </br>
-Followed Tutorial just for Fun. </br>
+A E-commerce Website layout made with help of HTML & CSS.
 
 ## About the Project
 Basic E-commerce Website UI with help of HTML, CSS and JavaScript.
@@ -23,5 +22,3 @@ Pull requests are welcome, feel free to ```fork``` this repo.
 
 ## License
 This project is open-sourced under the [MIT license]().
-
-
