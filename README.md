@@ -2,7 +2,7 @@
 A E-commerce Website layout made with help of HTML & CSS.
 
 ## About the Project
-Basic E-commerce Website UI with help of HTML, CSS and JavaScript.
+Basic E-commerce Website UI with help of HTML & CSS.
 
 ## Tech Stacks Used :
 
