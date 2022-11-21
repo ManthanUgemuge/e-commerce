@@ -1,8 +1,8 @@
 # E-Commerce Website
-A E-commerce Website layout made with help of HTML & CSS.
+E-commerce Website frontend implemented with help of HTML & CSS.
 
 ## About the Project
-Basic E-commerce Website UI with help of HTML & CSS.
+E-commerce Website UI with help of HTML & CSS.
 
 ## Tech Stacks Used :
 
