@@ -13,7 +13,7 @@ E-commerce Website UI with help of HTML & CSS.
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/e-commerce.git
+https://github.com/manthanugemuge/e-commerce.git
 ``` 
 Run Directly here -
 
