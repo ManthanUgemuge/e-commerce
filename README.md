@@ -15,10 +15,10 @@ E-commerce Website UI with help of HTML & CSS.
 ```
 https://github.com/ManthanUgemuge/E-commerce.git
 ``` 
-Run Directly here - [Live](https://manthanugemuge.github.io/E-commerce/)//[Download](https://github.com/ManthanUgemuge/E-commerce/archive/refs/heads/main.zip)
+Run Directly here - [Live]()//[Download]()
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/E-commerce/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/E-commerce/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
